@@ -66,9 +66,9 @@ Feel free to explore the website to learn more about my professional journey and
 
 For collaborations, inquiries, or further information, you can connect with me through the following channels:
 
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **GitHub**: [Your GitHub Profile URL]
+- **Email**: Sunnyverma1260@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/sunny-verma-27707830b/
+- **GitHub**: https://github.com/Sunny1260
 
 ## License
 
